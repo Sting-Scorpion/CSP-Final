@@ -31,6 +31,7 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(searchForm));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBox_return = new System.Windows.Forms.PictureBox();
             this.searchTxt = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -38,7 +39,7 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.panel3 = new System.Windows.Forms.Panel();
+            this.panel_song = new System.Windows.Forms.Panel();
             this.label3 = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
@@ -49,17 +50,16 @@
             this.gm = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.pictureBox_return = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_return)).BeginInit();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            this.panel3.SuspendLayout();
+            this.panel_song.SuspendLayout();
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_return)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -74,6 +74,18 @@
             this.panel1.Size = new System.Drawing.Size(513, 58);
             this.panel1.TabIndex = 0;
             // 
+            // pictureBox_return
+            // 
+            this.pictureBox_return.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_return.Image")));
+            this.pictureBox_return.Location = new System.Drawing.Point(4, 7);
+            this.pictureBox_return.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox_return.Name = "pictureBox_return";
+            this.pictureBox_return.Size = new System.Drawing.Size(56, 40);
+            this.pictureBox_return.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox_return.TabIndex = 5;
+            this.pictureBox_return.TabStop = false;
+            this.pictureBox_return.Click += new System.EventHandler(this.pictureBox_return_Click);
+            // 
             // searchTxt
             // 
             this.searchTxt.FormattingEnabled = true;
@@ -87,6 +99,9 @@
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.Transparent;
+            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(136)))), ((int)(((byte)(239)))));
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("微软雅黑", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.button1.Location = new System.Drawing.Point(367, 13);
             this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
@@ -157,14 +172,14 @@
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
-            // panel3
+            // panel_song
             // 
-            this.panel3.Controls.Add(this.label3);
-            this.panel3.Location = new System.Drawing.Point(3, 60);
-            this.panel3.Margin = new System.Windows.Forms.Padding(4);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(513, 630);
-            this.panel3.TabIndex = 2;
+            this.panel_song.Controls.Add(this.label3);
+            this.panel_song.Location = new System.Drawing.Point(3, 60);
+            this.panel_song.Margin = new System.Windows.Forms.Padding(4);
+            this.panel_song.Name = "panel_song";
+            this.panel_song.Size = new System.Drawing.Size(513, 630);
+            this.panel_song.TabIndex = 2;
             // 
             // label3
             // 
@@ -197,7 +212,7 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Image = global::KTVRequestASongSystem.Properties.Resources.添加;
+            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
             this.pictureBox5.Location = new System.Drawing.Point(322, 20);
             this.pictureBox5.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox5.Name = "pictureBox5";
@@ -277,25 +292,13 @@
             this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // pictureBox_return
-            // 
-            this.pictureBox_return.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox_return.Image")));
-            this.pictureBox_return.Location = new System.Drawing.Point(4, 7);
-            this.pictureBox_return.Margin = new System.Windows.Forms.Padding(4);
-            this.pictureBox_return.Name = "pictureBox_return";
-            this.pictureBox_return.Size = new System.Drawing.Size(56, 40);
-            this.pictureBox_return.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox_return.TabIndex = 5;
-            this.pictureBox_return.TabStop = false;
-            this.pictureBox_return.Click += new System.EventHandler(this.pictureBox_return_Click);
-            // 
             // searchForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(518, 850);
             this.Controls.Add(this.panel4);
-            this.Controls.Add(this.panel3);
+            this.Controls.Add(this.panel_song);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
@@ -304,18 +307,18 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "音乐播放器";
             this.panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_return)).EndInit();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            this.panel3.ResumeLayout(false);
-            this.panel3.PerformLayout();
+            this.panel_song.ResumeLayout(false);
+            this.panel_song.PerformLayout();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_return)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -325,7 +328,7 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Panel panel_song;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.PictureBox pictureBox2;

@@ -73,6 +73,11 @@ namespace KTVRequestASongSystem
                 _KtvDB.SongSingleSongData.Add(songSingleSongData);
                 _KtvDB.SaveChanges();
                 MessageBox.Show("添加成功");
+                this.Close();
+            }
+            else {
+                MessageBox.Show("添加成功");
+                this.Close();
             }
         }
 

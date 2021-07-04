@@ -39,15 +39,17 @@
             // 
             // dataGridView1
             // 
+            this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.Control;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.歌单名});
-            this.dataGridView1.Location = new System.Drawing.Point(12, 62);
+            this.dataGridView1.Location = new System.Drawing.Point(43, 67);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowTemplate.Height = 23;
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridView1.Size = new System.Drawing.Size(192, 212);
+            this.dataGridView1.Size = new System.Drawing.Size(288, 318);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
@@ -61,9 +63,12 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(231, 10);
+            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(136)))), ((int)(((byte)(239)))));
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Location = new System.Drawing.Point(203, 414);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(112, 34);
             this.button1.TabIndex = 1;
             this.button1.Text = "添加歌单";
             this.button1.UseVisualStyleBackColor = true;
@@ -71,9 +76,12 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(231, 62);
+            this.button2.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(136)))), ((int)(((byte)(239)))));
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Location = new System.Drawing.Point(57, 414);
+            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.Size = new System.Drawing.Size(112, 34);
             this.button2.TabIndex = 2;
             this.button2.Text = "删除歌单";
             this.button2.UseVisualStyleBackColor = true;
@@ -81,30 +89,35 @@
             // 
             // AddSongSingleText
             // 
-            this.AddSongSingleText.Location = new System.Drawing.Point(104, 12);
+            this.AddSongSingleText.Location = new System.Drawing.Point(156, 18);
+            this.AddSongSingleText.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.AddSongSingleText.Name = "AddSongSingleText";
-            this.AddSongSingleText.Size = new System.Drawing.Size(100, 21);
+            this.AddSongSingleText.Size = new System.Drawing.Size(148, 28);
             this.AddSongSingleText.TabIndex = 3;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(27, 15);
+            this.label1.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label1.Location = new System.Drawing.Point(40, 22);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(71, 12);
+            this.label1.Size = new System.Drawing.Size(104, 24);
             this.label1.TabIndex = 4;
             this.label1.Text = "添加歌单名:";
             // 
             // SongSingleManagementForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(329, 322);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(207)))), ((int)(((byte)(108)))));
+            this.ClientSize = new System.Drawing.Size(494, 483);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.AddSongSingleText);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.dataGridView1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "SongSingleManagementForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "歌单管理";

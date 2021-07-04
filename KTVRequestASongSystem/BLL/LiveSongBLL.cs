@@ -8,44 +8,53 @@ namespace KTVRequestASongSystem.BLL
 {
     public static class LiveSongBLL
     {
-        /// <summary>
-        /// 分析出该用户最喜欢的歌手
-        /// </summary>
-        public static string song()
+        public static string findFavorite(out string SingerName2nd, out string SingerName3rd)
         {
-            Dictionary<string, int> keyValuePairs = new Dictionary<string, int>();
+            Dictionary<string, int> favorSingerNames = new Dictionary<string, int>();
             KTVDBEntities kTVDBEntities = new KTVDBEntities();
             List<SingerLoveWatch> singerLoveWatches = (from c in kTVDBEntities.SingerLoveWatch
                                                        where c.UserName == Model.LoginDataModel.UserPhone
                                                        select c).ToList();
-            string SingerName = "周杰伦";
-            //添加姓名
+
+            //默认
+            string SingerName1st = "周杰伦";
+            //string SingerName2nd = "";
+
+            //添加歌手名 与对应歌曲播放的次数
             foreach (var item in singerLoveWatches)
             {
                 string[] name = item.Author.Trim().Split(' ');
                 foreach (var itemName in name)
                 {
-                    if (!keyValuePairs.Keys.Contains(itemName))
+                    if (!favorSingerNames.Keys.Contains(itemName))
                     {
-                        keyValuePairs.Add(itemName, item.Number);
+                        favorSingerNames.Add(itemName, item.Number);
                     }
                     else
                     {
-                        keyValuePairs[itemName] = keyValuePairs[itemName] + item.Number;
+                        favorSingerNames[itemName] = favorSingerNames[itemName] + item.Number;
                     }
                 }
             }
-            
-            //判断次数最多的歌手名
-            foreach (var item in keyValuePairs)
+
+            /*
+            //判断次数最多和次多的歌手名
+            foreach (var item in favorSingerNames)
             {
-                if(item.Value == keyValuePairs.Values.Max())
+                if (item.Value == favorSingerNames.Values.Max())
                 {
                     SingerName = item.Key;
                 }
             }
+            */
 
-            return SingerName;
+            //按播放次数排序各个歌手
+            var orderedSinger = from p in favorSingerNames orderby p.Value descending select p;
+            SingerName1st = orderedSinger.First().Key;
+            SingerName2nd = orderedSinger.ElementAt(1).Key;
+            SingerName3rd = orderedSinger.ElementAt(2).Key;
+
+            return SingerName1st;
         }
     }
 }

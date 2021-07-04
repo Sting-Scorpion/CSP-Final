@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KTVDBModelStoreContainer" CdmEntityContainer="KTVDBEntities">
+    <EntitySetMapping Name="Admin">
+      <EntityTypeMapping TypeName="KTVDBModel.Admin">
+        <MappingFragment StoreEntitySet="Admin">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="PassWord" ColumnName="PassWord" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Coolect">
+      <EntityTypeMapping TypeName="KTVDBModel.Coolect">
+        <MappingFragment StoreEntitySet="Coolect">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="BackImage" ColumnName="BackImage" />
+          <ScalarProperty Name="author" ColumnName="author" />
+          <ScalarProperty Name="LocalitySite" ColumnName="LocalitySite" />
+          <ScalarProperty Name="NetWorkSite" ColumnName="NetWorkSite" />
+          <ScalarProperty Name="SongId" ColumnName="SongId" />
+          <ScalarProperty Name="SongName" ColumnName="SongName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LocalSavePathWatch">
+      <EntityTypeMapping TypeName="KTVDBModel.LocalSavePathWatch">
+        <MappingFragment StoreEntitySet="LocalSavePathWatch">
+          <ScalarProperty Name="BackImage" ColumnName="BackImage" />
+          <ScalarProperty Name="Author" ColumnName="Author" />
+          <ScalarProperty Name="SongID" ColumnName="SongID" />
+          <ScalarProperty Name="SongName" ColumnName="SongName" />
+          <ScalarProperty Name="LocalSavePath" ColumnName="LocalSavePath" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SongSingleWatch">
+      <EntityTypeMapping TypeName="KTVDBModel.SongSingleWatch">
+        <MappingFragment StoreEntitySet="SongSingleWatch">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="SongSingleName" ColumnName="SongSingleName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SongSingleSongData">
+      <EntityTypeMapping TypeName="KTVDBModel.SongSingleSongData">
+        <MappingFragment StoreEntitySet="SongSingleSongData">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="BackImage" ColumnName="BackImage" />
+          <ScalarProperty Name="NetWorkSite" ColumnName="NetWorkSite" />
+          <ScalarProperty Name="author" ColumnName="author" />
+          <ScalarProperty Name="SongId" ColumnName="SongId" />
+          <ScalarProperty Name="SongName" ColumnName="SongName" />
+          <ScalarProperty Name="SongSingleName" ColumnName="SongSingleName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ConfigPath">
+      <EntityTypeMapping TypeName="KTVDBModel.ConfigPath">
+        <MappingFragment StoreEntitySet="ConfigPath">
+          <ScalarProperty Name="PathSite" ColumnName="PathSite" />
+          <ScalarProperty Name="PathName" ColumnName="PathName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SingerLoveWatch">
+      <EntityTypeMapping TypeName="KTVDBModel.SingerLoveWatch">
+        <MappingFragment StoreEntitySet="SingerLoveWatch">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="SongId" ColumnName="SongId" />
+          <ScalarProperty Name="Number" ColumnName="Number" />
+          <ScalarProperty Name="Author" ColumnName="Author" />
+          <ScalarProperty Name="SongName" ColumnName="SongName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

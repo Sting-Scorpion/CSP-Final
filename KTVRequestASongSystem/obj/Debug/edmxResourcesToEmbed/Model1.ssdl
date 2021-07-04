@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KTVDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="PassWord" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ConfigPath">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PathName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="PathSite" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Coolect">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SongName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="SongId" Type="int" Nullable="false" />
+    <Property Name="NetWorkSite" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="LocalitySite" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="author" Type="nvarchar" MaxLength="50" />
+    <Property Name="BackImage" Type="nvarchar(max)" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="LocalSavePathWatch">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LocalSavePath" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="SongName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="SongID" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Author" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="BackImage" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SingerLoveWatch">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SongName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Author" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Number" Type="int" Nullable="false" />
+    <Property Name="SongId" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="SongSingleSongData">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SongSingleName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="SongName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="SongId" Type="int" Nullable="false" />
+    <Property Name="author" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NetWorkSite" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="BackImage" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="SongSingleWatch">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SongSingleName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="KTVDBModelStoreContainer">
+    <EntitySet Name="Admin" EntityType="Self.Admin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ConfigPath" EntityType="Self.ConfigPath" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Coolect" EntityType="Self.Coolect" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LocalSavePathWatch" EntityType="Self.LocalSavePathWatch" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SingerLoveWatch" EntityType="Self.SingerLoveWatch" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SongSingleSongData" EntityType="Self.SongSingleSongData" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SongSingleWatch" EntityType="Self.SongSingleWatch" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,296 @@
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\KTVRequestASongSystem.exe.config
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\KTVRequestASongSystem.exe
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\KTVRequestASongSystem.pdb
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\EntityFramework.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\EntityFramework.SqlServer.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\EntityFramework.xml
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\EntityFramework.SqlServer.xml
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\zh-Hans\EntityFramework.resources.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.Form1.resources
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.Properties.Resources.resources
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.csproj.GenerateResource.cache
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.csproj.CoreCompileInputs.cache
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.csproj.CopyComplete
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.exe
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.pdb
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.exe.config
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\dll\NeteaseCloudMusicApi.Demo.pdb
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\dll\NeteaseCloudMusicApi.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\dll\NeteaseCloudMusicApi.pdb
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\dll\NeteaseCloudMusicApi.xml
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\dll\Newtonsoft.Json.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\netstandard.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.AppContext.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Collections.Concurrent.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Collections.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Collections.NonGeneric.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Collections.Specialized.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.ComponentModel.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.ComponentModel.Primitives.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Console.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Data.Common.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.Contracts.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.Debug.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.Process.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.Tools.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.Tracing.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Drawing.Primitives.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Dynamic.Runtime.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Globalization.Calendars.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Globalization.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Globalization.Extensions.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.Compression.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.FileSystem.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.IsolatedStorage.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.Pipes.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Linq.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Linq.Expressions.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Linq.Parallel.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Linq.Queryable.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.Http.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.NameResolution.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.NetworkInformation.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.Ping.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.Primitives.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.Requests.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.Security.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.Sockets.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.WebSockets.Client.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.WebSockets.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.ObjectModel.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Reflection.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Reflection.Extensions.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Reflection.Primitives.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Resources.Reader.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Resources.ResourceManager.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Resources.Writer.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.Extensions.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.Handles.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.InteropServices.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.Numerics.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.Claims.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.Principal.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.SecureString.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Text.Encoding.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Text.RegularExpressions.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Threading.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Threading.Overlapped.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Threading.Tasks.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Threading.Thread.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Threading.ThreadPool.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Threading.Timer.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.ValueTuple.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Xml.ReaderWriter.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Xml.XDocument.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Xml.XmlDocument.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Xml.XmlSerializer.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Xml.XPath.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\NeteaseCloudMusicApi.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\Newtonsoft.Json.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\NeteaseCloudMusicApi.pdb
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\NeteaseCloudMusicApi.xml
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.searchForm.resources
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\发现.png
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\搜索.png
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\播放.png
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\收藏.png
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\Interop.WMPLib.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\AxInterop.WMPLib.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\Interop.WMPLib.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\AxInterop.WMPLib.dll
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.csproj.ResolveComReference.cache
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.SongPlay.resources
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.MainFrom.resources
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\下载.png
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\收藏_线.png
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\收藏_面.png
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\音乐.png
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\海口.jpg
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.SongSingleForm.resources
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\添加.png
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\我的歌单.png
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.SongSingleManagementForm.resources
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.SongSingleSongListDataForm.resources
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\喜欢.png
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\推荐.png
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\配置.png
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.ConfigurationFrom.resources
+G:\咸鱼\QQ：973860549 800\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.csprojAssemblyReference.cache
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\dll\NeteaseCloudMusicApi.Demo.pdb
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\dll\NeteaseCloudMusicApi.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\dll\NeteaseCloudMusicApi.pdb
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\dll\NeteaseCloudMusicApi.xml
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\dll\Newtonsoft.Json.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\下载.png
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\发现.png
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\喜欢.png
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\我的歌单.png
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\推荐.png
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\搜索.png
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\播放.png
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\收藏.png
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\收藏_线.png
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\收藏_面.png
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\海口.jpg
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\添加.png
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\配置.png
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\image\音乐.png
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\KTVRequestASongSystem.exe.config
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\KTVRequestASongSystem.exe
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\KTVRequestASongSystem.pdb
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\netstandard.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.AppContext.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Collections.Concurrent.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Collections.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Collections.NonGeneric.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Collections.Specialized.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.ComponentModel.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.ComponentModel.Primitives.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Console.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Data.Common.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.Contracts.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.Debug.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.Process.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.Tools.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Diagnostics.Tracing.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Drawing.Primitives.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Dynamic.Runtime.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Globalization.Calendars.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Globalization.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Globalization.Extensions.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.Compression.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.FileSystem.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.IsolatedStorage.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.Pipes.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Linq.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Linq.Expressions.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Linq.Parallel.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Linq.Queryable.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.Http.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.NameResolution.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.NetworkInformation.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.Ping.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.Primitives.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.Requests.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.Security.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.Sockets.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.WebSockets.Client.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Net.WebSockets.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.ObjectModel.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Reflection.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Reflection.Extensions.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Reflection.Primitives.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Resources.Reader.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Resources.ResourceManager.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Resources.Writer.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.Extensions.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.Handles.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.InteropServices.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.Numerics.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.Claims.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.Principal.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Security.SecureString.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Text.Encoding.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Text.RegularExpressions.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Threading.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Threading.Overlapped.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Threading.Tasks.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Threading.Thread.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Threading.ThreadPool.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Threading.Timer.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.ValueTuple.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Xml.ReaderWriter.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Xml.XDocument.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Xml.XmlDocument.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Xml.XmlSerializer.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Xml.XPath.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\EntityFramework.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\NeteaseCloudMusicApi.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\Newtonsoft.Json.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\EntityFramework.xml
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\NeteaseCloudMusicApi.pdb
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\NeteaseCloudMusicApi.xml
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\Interop.WMPLib.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\bin\Debug\AxInterop.WMPLib.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.csprojAssemblyReference.cache
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.exe.config
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\Interop.WMPLib.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\AxInterop.WMPLib.dll
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.csproj.ResolveComReference.cache
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.ConfigurationFrom.resources
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.Form1.resources
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.Properties.Resources.resources
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.searchForm.resources
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.SongPlay.resources
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.SongSingleForm.resources
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.SongSingleManagementForm.resources
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.SongSingleSongListDataForm.resources
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.csproj.GenerateResource.cache
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.csproj.CoreCompileInputs.cache
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.csproj.CopyComplete
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.exe
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.pdb
+D:\whu\sophomore2\C#\KTVRequestASongSystem0611\KTVRequestASongSystem\KTVRequestASongSystem\obj\Debug\KTVRequestASongSystem.MainForm.resources

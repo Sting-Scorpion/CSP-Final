@@ -4,7 +4,9 @@ namespace KTVRequestASongSystem
 {
     using System;
     using System.Collections.Generic;
-    
+    /// <summary>
+    /// ²¥·Å¼ÇÂ¼Àà
+    /// </summary>
     public partial class SingerLoveWatch
     {
         public int ID { get; set; }

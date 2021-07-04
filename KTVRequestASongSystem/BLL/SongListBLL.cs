@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace KTVRequestASongSystem.BLL
 {
     /// <summary>
-    /// 获取歌单
+    /// 获取歌曲列表
     /// </summary>
     public static class SongListBLL
     {

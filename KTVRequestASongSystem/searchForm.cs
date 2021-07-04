@@ -143,7 +143,10 @@ namespace KTVRequestASongSystem
             }
         }
 
-        //画界面
+        /// <summary>
+        /// 画界面
+        /// </summary>
+        /// <param name="songListModels"></param>
         public void interfaceSong(List<songListModel> songListModels)
         {
             locationX = 0;

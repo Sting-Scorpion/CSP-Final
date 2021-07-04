@@ -3,7 +3,9 @@ namespace KTVRequestASongSystem
 {
     using System;
     using System.Collections.Generic;
-    
+    /// <summary>
+    /// µ¥ÇúÀà
+    /// </summary>
     public partial class SongSingleSongData
     {
         public int ID { get; set; }

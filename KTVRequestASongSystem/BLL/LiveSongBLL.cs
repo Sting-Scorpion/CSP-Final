@@ -8,6 +8,9 @@ namespace KTVRequestASongSystem.BLL
 {
     public static class LiveSongBLL
     {
+        /// <summary>
+        /// 分析出该用户最喜欢的歌手
+        /// </summary>
         public static string song()
         {
             Dictionary<string, int> keyValuePairs = new Dictionary<string, int>();
